@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(39, 39, 39, 0.952);
+  color: rgb(199, 196, 196);
+  overflow-x: hidden;
+}
+#searchbarContainer {
+  display: block;
+  width: 90vw;
+}
+.input-icons i {
+  position: absolute;
+}
+.input-icons {
+  width: 100%;
+}
+.icon {
+  color: rgba(39, 39, 39, 0.952);
+  padding: 10px;
+  min-width: 40px;
+}
+.input-field {
+  color: black;
+  font-size: 18px;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: rgb(231, 231, 231);
+}
